@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "001_Two_Sum": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "48YOJF06f+Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sheikh.kaiyum\\source\\repos\\skaiyum5\\LeetCode-Solutions\\Easy\\Arrays\\001_Two_Sum\\001_Two_Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheikh.kaiyum\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.10.32/DefaultCollection/_packaging/Research_Innovation_Nuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source http://192.168.10.32/DefaultCollection/_packaging/Research_Innovation_Nuget/nuget/v3/index.json."
+    }
+  ]
+}
