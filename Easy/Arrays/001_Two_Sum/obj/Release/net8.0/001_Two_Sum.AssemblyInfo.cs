@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("001_Two_Sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12cbd4de3efdf39cfddd4be55725a76bce052f20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c289bf4d0ed7a8fdc0539deefbfef27e61c63e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("001_Two_Sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("001_Two_Sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
